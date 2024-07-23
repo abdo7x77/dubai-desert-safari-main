@@ -20,6 +20,7 @@
 }
 
 .input-wrapper {
+    
     width: 95%;
     height: 100%;
 }
@@ -80,6 +81,7 @@
     .search-box-input{
         font-size: 17px;
     }
+   
 }
 
 @media (max-width: 400px){
